@@ -1,0 +1,29 @@
+Kevin Nguyen   	    |		   |	          |		     |		      |		     |		        |		      |
+kdn433	 	    |  	Dijkstra   |	Prim      |      A* Dist     |	A* Halfass    |	 A* zip	     |	A* Randombs     |  A* Randomlies      |
+CS314 Assignment 10 |		   |	          |                  |		      |		     |		        |		      |
+----------------------------------------------------------------------------------------------------------------------------------------------|
+                    |              |              |                  |                |              |                  |                     |
+		    |              |              |                  |                |              |                  |                     |
+		    | Nodes	   |              | Nodes            | Nodes          | Nodes        | Nodes            | Nodes               |
+Austin to Muleshoe  | Searched:71  |              | Searched:11      | Searched:40    | Searched:65  | Searched:37      | Searched:56         |
+  		    |              |              |                  |                |              |                  |                     |
+		    | Path         | Path         | Path             | Path           | Path         | Path             | Path                |
+		    | Length:452   | Length:501   | Length:452       | Length:452     | Length:452   | Length:452       | Length:649          |
+		    |              |              |                  |                |              |                  |                     |
+----------------------------------------------------------------------------------------------------------------------------------------------|
+                    |              |              |                  |                |              |                  |                     |
+                    | Nodes        |              | Nodes            | Nodes          | Nodes        | Nodes            | Nodes               |
+                    | Searched:67  |              | Searched:14      | Searched:27    | Searched:47  | Searched:28      | Searched:41         |
+Laredo to Haskell   |              |              |                  |                |              |                  |                     |
+                    | Path         |              | Path             | Path           | Path         | Path             | Path                |
+                    | Length:482   |              | Length:482       | Length:482     | Length:482   | Length:482       | Length:613          |
+                    |              |              |                  |                |              |                  |                     |
+-----------------------------------|              |-------------------------------------------------------------------------------------------|
+                    |              |              |                  |                |              |                  |                     |
+                    | Nodes        |              | Nodes            | Nodes          | Nodes        | Nodes            | Nodes               |
+                    | Searched:68  |              | Searched:10      | Searched:25    | Searched:34  | Searched:28      | Searched:25         |
+Dumas to Coriscana  |              |              |                  |                |              |                  |                     |
+                    | Path         |              | Path             | Path           | Path         | Path             | Path                |
+                    | Length:467   |              | Length:467       | Length:467     | Length:467   | Length:467       | Length:580          |
+                    |              |              |                  |                |              |                  |                     |
+----------------------------------------------------------------------------------------------------------------------------------------------|

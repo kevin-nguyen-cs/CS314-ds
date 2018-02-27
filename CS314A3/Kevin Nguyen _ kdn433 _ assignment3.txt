@@ -1,0 +1,20 @@
+Kevin Nguyen
+kdn433
+CS314 - Section: 52870
+Assignment 3
+
+
+4.) Array comparing elt Big O
+
+Array access = O(1)
+Cons elt = O(n)
+
+The array access is a O(1) since arrays a contiguous block of memory that's readily
+available for access by the user. However, the elt function for cons has to iterate through
+the cons list in order to get to the position of element (usually by rest() function) and
+return it.
+
+
+6.) Shape of curve for interpolation
+
+The shape of the curve is similiar to a sine wave graph.

@@ -1,0 +1,20 @@
+Kevin Nguyen
+kdn433
+CS314 - Section: 52870
+Assignment 5
+
+
+
+1.) Big O comparison destructive merge and sort.
+
+Big O of destructive merge: O(nlog(n))
+Sort method: O(nlog(n))
+
+
+2.) How much garbage is produced by sort function?
+
+The amound of garbage is mostly equivalent to the Big(O), nlog(n). The amount of
+space and time required is parallel to each initializations. As a result, the amount gained
+is the amount that is garbage collected. In this case, we used a quicksort to make
+new sublists, sorted them, and merge them (3 instances for garbage).
+

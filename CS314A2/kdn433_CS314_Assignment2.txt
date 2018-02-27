@@ -1,0 +1,25 @@
+Kevin Nguyen
+kdn433
+CS314 - Assignment 2
+Section: 52870
+
+
+2.) Peanoplus
+
+The Big O of Peanoplus; O(n)
+
+The invariant property exists for x and y parameters. They would eventually sum to a 
+constant to where it doesn't change with any of the iterations.
+
+
+3.) Peanotimes
+
+Big O of Peanotimes; O(n)
+
+
+8.) Relationship between Binomial Coefficients and n choose k
+
+The Binomial Coefficients and n choose k are identical and equal based on the "n" value.
+The value n represents the rows of the Pascal Triangle with n = 0 at the top of the triangle.
+The bottom of the Pascal Triangle would have n = z, z being any value of positive integers. 
+K gives the position from left to right within the rows.
